@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.email       = 'ejjoo7944@gmail.com'
   s.files       =  Dir['*.html'] + Dir['*.md'] +
                    Dir['{_includes,_layouts}/**/*.html'] +
-                   Dir['public/**'] +
+                   Dir['assets/**'] +
                    Dir['_posts/**/*.{markdown,md}']
   s.homepage    = 'https://github.com/ejjoo/jekyll-theme-monos'
   s.metadata    = { 'source_code_uri' => 'https://github.com/ejjoo/jekyll-theme-monos' }
