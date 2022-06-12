@@ -56,3 +56,7 @@ tag_dir: tag/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - assets/css/syntax/*.md
+  - assets/css/syntax/*.txt
+  - assets/img/*
