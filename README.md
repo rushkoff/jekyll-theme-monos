@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 ## Theme Monos
-> Simple and lightweight theme for Jekyll
+Was: a simple and lightweight theme for Jekyll called [Monos][1]
+
+Now: adapted specifically for [Rushkoff Archive][1]
 
 ### Features
 - Responsive.
@@ -31,3 +33,6 @@ date_format: "%Y-%M-%D" //and date format.
 ![alt text](/assets/img/screenshot-m1.png)
 #### Page - Articles
 ![alt text](/assets/img/screenshot-m2.png)
+
+[1]: https://github.com/ejjoo/jekyll-theme-monos
+[2]: https://github.com/rushkoff/rushkoff-archive
